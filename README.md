@@ -1,0 +1,1 @@
+Olá, bem vindo ao meu portfólio, demorei até elaborar algo que me representasse 100%, sou apaixonado por tecnologia. Além de ser bastante criativo, juntando essas duas caracteristicas costuma sair alguns projetos bem interessantes, caso tenha interesse pode conferir em outros repositórios.
